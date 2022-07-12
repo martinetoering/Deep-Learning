@@ -1,2 +1,9 @@
 .DS_Store
 */.DS_Store
+results
+Part1-MLP-CNN-Backprop/Toering_assignment1.zip
+Part1-MLP-CNN-Backprop/code/cifar10/cifar-10-batches-py
+Part1-MLP-CNN-Backprop/Instructions.md
+Part2-RNN-LSTM-Graph/Toering_assignment2.zip
+Part2-RNN-LSTM-Graph/other
+Part3-VAE-GAN-NF/Toering_assignment3.zip
